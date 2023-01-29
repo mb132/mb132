@@ -7,6 +7,8 @@
 
 - ⚡ Exited **to get into ML- & AI-Development**
 
+- 🎈 Currently toying around with **Stable Diffusion**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
