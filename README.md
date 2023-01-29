@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Java & Discord Bot Development using the amazing JDA-Framework**
 
+- 📫 How to reach me **@8m4x:matrix.org**
+
 - ⚡ Exited **to get into ML- & AI-Development**
 
 <h3 align="left">Connect with me:</h3>
