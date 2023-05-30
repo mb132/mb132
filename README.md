@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">Applied CS Student from Germany.</h3>
 
-- 🌱 I’m currently learning **Java & Discord Bot Development using the amazing JDA-Framework**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **@8m4x:matrix.org**
 
